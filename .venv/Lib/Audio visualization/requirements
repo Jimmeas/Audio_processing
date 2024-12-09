@@ -1,0 +1,6 @@
+librosa
+numpy
+scipy
+pydub
+matplotlib
+tkinter

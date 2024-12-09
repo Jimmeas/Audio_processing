@@ -1,0 +1,1 @@
+This code is intended to take a .wav audio file and show the user the low, mid, and high frequencies as well as the frequency response and the combined low, mid, high frequencies and put them in easy to read graphs.
